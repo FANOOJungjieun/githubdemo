@@ -1,3 +1,5 @@
 text file from remote repository
 
   first modified
+
+  modified in br1 - second commit
